@@ -1,2 +1,3 @@
-2024/11/08-16:10:18.888 779 Creating DB /config/.config/google-chrome/Default/Local Extension Settings/ghbmnnjooekpmoecnnnilnnbdlolhkhi since it was missing.
-2024/11/08-16:10:18.893 779 Reusing MANIFEST /config/.config/google-chrome/Default/Local Extension Settings/ghbmnnjooekpmoecnnnilnnbdlolhkhi/MANIFEST-000001
+2024/11/08-16:28:49.672 af4 Reusing MANIFEST /config/.config/google-chrome/Default/Local Extension Settings/ghbmnnjooekpmoecnnnilnnbdlolhkhi/MANIFEST-000001
+2024/11/08-16:28:49.673 af4 Recovering log #3
+2024/11/08-16:28:49.673 af4 Reusing old log /config/.config/google-chrome/Default/Local Extension Settings/ghbmnnjooekpmoecnnnilnnbdlolhkhi/000003.log 
